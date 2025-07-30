@@ -1,0 +1,9 @@
+Corolla,10
+Alto,8
+Sportage,6
+Vitz,10
+Swift,10
+City,5
+Civic,2
+Revo,6
+Camry,10
